@@ -1,0 +1,7 @@
+{
+  "name": "DayChart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
